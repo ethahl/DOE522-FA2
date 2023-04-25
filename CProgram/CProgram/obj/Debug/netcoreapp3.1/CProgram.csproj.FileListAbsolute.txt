@@ -12,3 +12,17 @@ C:\Users\User\source\repos\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.cs
 C:\Users\User\source\repos\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.dll
 C:\Users\User\source\repos\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.pdb
 C:\Users\User\source\repos\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.genruntimeconfig.cache
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.exe
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.deps.json
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.runtimeconfig.json
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.dll
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\bin\Debug\netcoreapp3.1\CProgram.pdb
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.AssemblyInfo.cs
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.dll
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.pdb
+C:\Users\User\Source\Repos\DOE522-FA2\CProgram\CProgram\obj\Debug\netcoreapp3.1\CProgram.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CProgram\\CProgram\\CProgram.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\DOE522-FA2\\CProgram\\CProgram\\CProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CProgram\\CProgram\\CProgram.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\DOE522-FA2\\CProgram\\CProgram\\CProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CProgram\\CProgram\\CProgram.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\DOE522-FA2\\CProgram\\CProgram\\CProgram.csproj",
         "projectName": "CProgram",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CProgram\\CProgram\\CProgram.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\DOE522-FA2\\CProgram\\CProgram\\CProgram.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CProgram\\CProgram\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\DOE522-FA2\\CProgram\\CProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
